@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="./styles.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap"
+      rel="stylesheet"
+    />
+    <title>Maze Aventure</title>
+  </head>
+  <body>
+    <h1>MAZE ADVENTURE</h1>
+    <div id="wealth-element">
+      <p>Wealth:</p>
+      <div id="wealth">0</div>
+    </div>
+    <div class="container">
+      <div id="text">Text</div>
+      <div id="option-buttons" class="btn-grid">
+        <button class="btn">Default</button>
+      </div>
+    </div>
+    <div class="game-buttons"></div>
+    <div class="rules">
+      <h2>How to play</h2>
+      <p>
+        The aim of this game is to move through the maze collecting as much
+        wealth as possible before you exit. You can gain wealth by defeating
+        monsters you meet and taking their treasure. You can also choose to
+        leave treasure in a room to mark that you've been there, but be aware
+        you won't be able to pick this treasure up again once you've done so.
+      </p>
+    </div>
+    <script src="maze-config.json"></script>
+    <script src="game.js"></script>
+  </body>
+</html>

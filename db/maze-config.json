@@ -1,0 +1,274 @@
+{
+  "rooms": [
+    {
+      "id": 0,
+      "passages": [
+        {
+          "text": "north",
+          "isExit": false,
+          "joinsTo": 0
+        },
+        {
+          "text": "east",
+          "isExit": false,
+          "joinsTo": 1
+        },
+        {
+          "text": "south",
+          "isExit": false,
+          "joinsTo": 3
+        },
+        {
+          "text": "west",
+          "isExit": false,
+          "joinsTo": 0
+        }
+      ],
+      "items": {
+        "treasure": "default",
+        "threat": "default"
+      },
+      "placedTreasure": null
+    },
+    {
+      "id": 1,
+      "passages": [
+        {
+          "text": "north",
+          "isExit": false,
+          "joinsTo": 1
+        },
+        {
+          "text": "east",
+          "isExit": false,
+          "joinsTo": 2
+        },
+        {
+          "text": "south",
+          "isExit": false,
+          "joinsTo": 4
+        },
+        {
+          "text": "west",
+          "isExit": false,
+          "joinsTo": 0
+        }
+      ],
+      "items": {
+        "treasure": "default",
+        "threat": "default"
+      },
+      "placedTreasure": null
+    },
+    {
+      "id": 2,
+      "passages": [
+        {
+          "text": "north",
+          "isExit": false,
+          "joinsTo": 2
+        },
+        {
+          "text": "east",
+          "isExit": false,
+          "joinsTo": 2
+        },
+        {
+          "text": "south",
+          "isExit": false,
+          "joinsTo": 5
+        },
+        {
+          "text": "west",
+          "isExit": false,
+          "joinsTo": 1
+        }
+      ],
+      "items": {
+        "treasure": "default",
+        "threat": "default"
+      },
+      "placedTreasure": null
+    },
+    {
+      "id": 3,
+      "passages": [
+        {
+          "text": "north",
+          "isExit": false,
+          "joinsTo": 0
+        },
+        {
+          "text": "east",
+          "isExit": false,
+          "joinsTo": 4
+        },
+        {
+          "text": "south",
+          "isExit": false,
+          "joinsTo": 8
+        },
+        {
+          "text": "west",
+          "isExit": false,
+          "joinsTo": 3
+        }
+      ],
+      "items": {
+        "treasure": "default",
+        "threat": "default"
+      },
+      "placedTreasure": null
+    },
+    {
+      "id": 4,
+      "passages": [
+        {
+          "text": "north",
+          "isExit": false,
+          "joinsTo": 1
+        },
+        {
+          "text": "east",
+          "isExit": false,
+          "joinsTo": 5
+        },
+        {
+          "text": "south",
+          "isExit": false,
+          "joinsTo": 7
+        },
+        {
+          "text": "west",
+          "isExit": false,
+          "joinsTo": 3
+        }
+      ],
+      "items": {
+        "treasure": "default",
+        "threat": "default"
+      },
+      "placedTreasure": null
+    },
+    {
+      "id": 5,
+      "passages": [
+        {
+          "text": "north",
+          "isExit": false,
+          "joinsTo": 2
+        },
+        {
+          "text": "east",
+          "isExit": false,
+          "joinsTo": 5
+        },
+        {
+          "text": "south",
+          "isExit": false,
+          "joinsTo": 8
+        },
+        {
+          "text": "west",
+          "isExit": false,
+          "joinsTo": 4
+        }
+      ],
+      "items": {
+        "treasure": "default",
+        "threat": "default"
+      },
+      "placedTreasure": null
+    },
+    {
+      "id": 6,
+      "passages": [
+        {
+          "text": "north",
+          "isExit": false,
+          "joinsTo": 3
+        },
+        {
+          "text": "east",
+          "isExit": false,
+          "joinsTo": 7
+        },
+        {
+          "text": "south",
+          "isExit": false,
+          "joinsTo": 6
+        },
+        {
+          "text": "west",
+          "isExit": false,
+          "joinsTo": 6
+        }
+      ],
+      "items": {
+        "treasure": "default",
+        "threat": "default"
+      },
+      "placedTreasure": null
+    },
+    {
+      "id": 7,
+      "passages": [
+        {
+          "text": "north",
+          "isExit": false,
+          "joinsTo": 4
+        },
+        {
+          "text": "east",
+          "isExit": false,
+          "joinsTo": 8
+        },
+        {
+          "text": "south",
+          "isExit": false,
+          "joinsTo": 7
+        },
+        {
+          "text": "west",
+          "isExit": false,
+          "joinsTo": 6
+        }
+      ],
+      "items": {
+        "treasure": "default",
+        "threat": "default"
+      },
+      "placedTreasure": null
+    },
+    {
+      "id": 8,
+      "passages": [
+        {
+          "text": "north",
+          "isExit": false,
+          "joinsTo": 5
+        },
+        {
+          "text": "east",
+          "isExit": false,
+          "joinsTo": 4
+        },
+        {
+          "text": "south",
+          "isExit": false,
+          "joinsTo": 8
+        },
+        {
+          "text": "west",
+          "isExit": false,
+          "joinsTo": 8
+        }
+      ],
+      "items": {
+        "treasure": "default",
+        "threat": "default"
+      },
+      "placedTreasure": null
+    }
+  ]
+}

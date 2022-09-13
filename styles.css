@@ -1,0 +1,67 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1,
+#wealth-element {
+  font-family: "MedievalSharp", cursive;
+}
+
+#wealth-element {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: antiquewhite;
+  padding: 30px;
+  border-radius: 15px;
+}
+
+.rules {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.rules p {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+#text {
+  margin: 20px;
+}
+
+.btn {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-color: #f5d882;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 15px;
+}
+
+.game-buttons {
+  margin-top: 15px;
+}
+.game-buttons .btn {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-color: aliceblue;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 15px;
+}
